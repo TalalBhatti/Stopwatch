@@ -1,0 +1,26 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.container{
+    background: linear-gradient(to right, #001b32, #008cff);
+    padding: 30px;
+    margin: 10% 20% 20% 20%;
+}
+
+#display{
+    width: 100%;
+    font-size: 72px;
+    text-align: center;
+    margin: 0px auto;
+    color: white;
+
+}
+
+.buttons{
+    margin-top: 50px;
+    text-align: center;
+}
